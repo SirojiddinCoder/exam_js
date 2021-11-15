@@ -28,3 +28,17 @@
 // const arr4 = arr3.slice(0,5);
 // const arrControl = 'jimmy'.split('').reverse().splice(0,5).slice(0,5);
 // console.log(arrControl)
+
+// console.log(Math.max(Math.round(20.8),Math.min(Math.ceil(23.1),(Math.floor(26.89)))));
+
+// console.log((parseFloat(10 / 4 ).toFixed(1)));
+// var ar = 'welcome!' ;
+    // console.log(ar.slice());
+    // var ar = 'salom'; console.log(ar.replace(ar[0], ar[ar.length -2]))
+    // foo = (a, b, c) => {console.log(a + b + c);}
+    // foo('hello ','there ');
+    const N1_UfcFighters = [];
+     N1_UfcFighters[1] = 'Khabib';
+     N1_UfcFighters[2] = 'Jon Jones';
+     N1_UfcFighters[2] = 'Kamaru Usman';
+     console.log(N1_UfcFighters);
